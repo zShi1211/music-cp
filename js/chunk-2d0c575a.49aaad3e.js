@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0c575a"],{"3ed6":function(n,t,u){"use strict";u.r(t);var c=function(){var n=this;n._self._c;return n._m(0)},e=[function(){var n=this,t=n._self._c;return t("div",[t("h1",[n._v("下载管理")])])}],r={},s=r,i=u("0b56"),l=Object(i["a"])(s,c,e,!1,null,null,null);t["default"]=l.exports}}]);
+//# sourceMappingURL=chunk-2d0c575a.49aaad3e.js.map

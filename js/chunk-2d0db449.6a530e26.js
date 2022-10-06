@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0db449"],{"6eae":function(n,e,u){"use strict";u.r(e);var t=function(){var n=this,e=n._self._c;return e("div",[n._v("歌手")])},c=[],l={},s=l,a=u("0b56"),i=Object(a["a"])(s,t,c,!1,null,null,null);e["default"]=i.exports}}]);
+//# sourceMappingURL=chunk-2d0db449.6a530e26.js.map
